@@ -84,7 +84,20 @@ a:hover {
 }
 
 /*-----------Header-----------*/
+.user-title {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.user-text {
+	font-size: 20px !important;
 
+}
+.user-text img {
+	display: block;
+	width: 100%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
 .header {
 	color: #fff;
 	padding-top: 53px;
